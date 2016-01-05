@@ -13,7 +13,6 @@ var capabilities = {
     resolution: '1024x768',
     build: process.env.BS_AUTOMATE_BUILD,
     project: process.env.BS_AUTOMATE_PROJECT,
-    'browserstack.user': "onkar15",
-    'browserstack.key': "Hq4gX73YkTGJoqkx8ChJ"
-    sudo: required
-}
+    'browserstack.user': 'onkar15',
+    'browserstack.key': 'Hq4gX73YkTGJoqkx8ChJ'
+};
