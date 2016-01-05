@@ -15,4 +15,5 @@ var capabilities = {
     project: process.env.BS_AUTOMATE_PROJECT,
     'browserstack.user': "onkar15",
     'browserstack.key': "Hq4gX73YkTGJoqkx8ChJ"
+    sudo: required
 }
